@@ -134,11 +134,21 @@
 
 <h2 align="center">🔥 Recent Activity</h2>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=onprs&theme=github-compact&hide_border=true&area=true"
-  alt="GitHub activity graph"
-  width="100%"
-/>
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=onprs&theme=github-dark-blue&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=onprs&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=onprs&hide_border=true"
+    alt="GitHub contribution streak"
+    width="100%"
+  />
+</picture>
 
 </td>
 </tr>
