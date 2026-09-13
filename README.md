@@ -134,21 +134,34 @@
 
 <h2 align="center">🔥 Recent Activity</h2>
 
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=onprs&theme=github-dark-blue&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?user=onprs&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=onprs&hide_border=true"
-    alt="GitHub contribution streak"
-    width="100%"
-  />
-</picture>
+<!-- recent-activity:start -->
+<p>
+  <a href="https://github.com/onprs/GiWifi-Auto/commit/e5dfc5f891e472e279122119a99dd79e1dc119c8"><b>Pushed to GiWifi-Auto</b></a><br>
+  <sub>Sep 13, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/stablyai/orca/issues/20325"><b>Labeled an issue in stablyai/orca</b></a><br>
+  <sub>Sep 12, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/Emby-Auto"><b>Created a branch in Emby-Auto</b></a><br>
+  <sub>Sep 11, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/sub2api/commit/7eb7d44ffe59fe908e0e76b84a91bfce85715dd4"><b>Pushed to sub2api</b></a><br>
+  <sub>Sep 11, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/MultiAccountManager/pull/5#issuecomment-5456981344"><b>Commented on a pull request in MultiAccountManager</b></a><br>
+  <sub>Aug 29, 2026</sub>
+</p>
+
+<p><a href="https://github.com/onprs?tab=overview">View all activity</a></p>
+<!-- recent-activity:end -->
 
 </td>
 </tr>
