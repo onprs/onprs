@@ -136,18 +136,18 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/GiWifi-Auto/commit/e5dfc5f891e472e279122119a99dd79e1dc119c8"><b>Pushed to GiWifi-Auto</b></a><br>
+  <a href="https://github.com/onprs/Emby-Auto/commit/858780d00bf5cdc77a3a52d517550ef5e70f83ef"><b>Pushed to Emby-Auto</b></a><br>
+  <sub>Sep 13, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/GiWifi-Auto/commit/ac44cd44b86a87386f092fe141361a49d064aa34"><b>Pushed to GiWifi-Auto</b></a><br>
   <sub>Sep 13, 2026</sub>
 </p>
 
 <p>
   <a href="https://github.com/stablyai/orca/issues/20325"><b>Labeled an issue in stablyai/orca</b></a><br>
   <sub>Sep 12, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/Emby-Auto"><b>Created a branch in Emby-Auto</b></a><br>
-  <sub>Sep 11, 2026</sub>
 </p>
 
 <p>
