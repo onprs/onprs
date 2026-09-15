@@ -136,6 +136,11 @@
 
 <!-- recent-activity:start -->
 <p>
+  <a href="https://github.com/onprs/BikeHelper/commit/078d3573b50ef34c7db04caf589d4eb5bc79f40f"><b>Pushed to BikeHelper</b></a><br>
+  <sub>Sep 15, 2026</sub>
+</p>
+
+<p>
   <a href="https://github.com/onprs/Emby-Auto/commit/858780d00bf5cdc77a3a52d517550ef5e70f83ef"><b>Pushed to Emby-Auto</b></a><br>
   <sub>Sep 13, 2026</sub>
 </p>
@@ -153,11 +158,6 @@
 <p>
   <a href="https://github.com/onprs/sub2api/commit/7eb7d44ffe59fe908e0e76b84a91bfce85715dd4"><b>Pushed to sub2api</b></a><br>
   <sub>Sep 11, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/MultiAccountManager/pull/5#issuecomment-5456981344"><b>Commented on a pull request in MultiAccountManager</b></a><br>
-  <sub>Aug 29, 2026</sub>
 </p>
 
 <p><a href="https://github.com/onprs?tab=overview">View all activity</a></p>
