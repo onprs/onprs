@@ -136,7 +136,12 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/BikeHelper/commit/078d3573b50ef34c7db04caf589d4eb5bc79f40f"><b>Pushed to BikeHelper</b></a><br>
+  <a href="https://github.com/onprs/AstrbotPlugins/commit/8e99de012e479377d11c9260b6105449affef96f"><b>Pushed to AstrbotPlugins</b></a><br>
+  <sub>Sep 16, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/BikeHelper/commit/ad405e96137cb7915f2e7ed8c98eea61af208a59"><b>Pushed to BikeHelper</b></a><br>
   <sub>Sep 15, 2026</sub>
 </p>
 
@@ -153,11 +158,6 @@
 <p>
   <a href="https://github.com/stablyai/orca/issues/20325"><b>Labeled an issue in stablyai/orca</b></a><br>
   <sub>Sep 12, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/sub2api/commit/7eb7d44ffe59fe908e0e76b84a91bfce85715dd4"><b>Pushed to sub2api</b></a><br>
-  <sub>Sep 11, 2026</sub>
 </p>
 
 <p><a href="https://github.com/onprs?tab=overview">View all activity</a></p>
