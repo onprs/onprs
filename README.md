@@ -136,18 +136,18 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/BikeHelper/commit/0fa5853edc8d0cf37b8bd604cd79b59151903b64"><b>Pushed to BikeHelper</b></a><br>
+  <a href="https://github.com/onprs/BikeHelper/commit/79566e65ed359d7580e4607bf9e4e47eb47dfef1"><b>Pushed to BikeHelper</b></a><br>
+  <sub>Sep 19, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/sub2api/commit/b92f493bedb6db6721e2efed100322684d2e5485"><b>Pushed to sub2api</b></a><br>
   <sub>Sep 18, 2026</sub>
 </p>
 
 <p>
   <a href="https://github.com/onprs/AstrbotPlugins/commit/8e99de012e479377d11c9260b6105449affef96f"><b>Pushed to AstrbotPlugins</b></a><br>
   <sub>Sep 16, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/sub2api/commit/5203465ff13047909a61a9449759f3d1b7a297f3"><b>Pushed to sub2api</b></a><br>
-  <sub>Sep 15, 2026</sub>
 </p>
 
 <p>
