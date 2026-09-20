@@ -136,13 +136,8 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/BikeHelper/commit/79566e65ed359d7580e4607bf9e4e47eb47dfef1"><b>Pushed to BikeHelper</b></a><br>
+  <a href="https://github.com/onprs/sub2api/commit/93f6df71226a47c159d6e893a9138e2bcc723b69"><b>Pushed to sub2api</b></a><br>
   <sub>Sep 19, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/sub2api/commit/b92f493bedb6db6721e2efed100322684d2e5485"><b>Pushed to sub2api</b></a><br>
-  <sub>Sep 18, 2026</sub>
 </p>
 
 <p>
@@ -158,6 +153,11 @@
 <p>
   <a href="https://github.com/onprs/GiWifi-Auto/commit/ac44cd44b86a87386f092fe141361a49d064aa34"><b>Pushed to GiWifi-Auto</b></a><br>
   <sub>Sep 13, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/stablyai/orca/issues/20325"><b>Labeled an issue in stablyai/orca</b></a><br>
+  <sub>Sep 12, 2026</sub>
 </p>
 
 <p><a href="https://github.com/onprs?tab=overview">View all activity</a></p>
