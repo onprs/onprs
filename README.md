@@ -136,7 +136,12 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/sub2api/commit/1beebd31a3aee54192cc0e8975e02cdbbe52dae5"><b>Pushed to sub2api</b></a><br>
+  <a href="https://github.com/onprs/GiWifi-Auto/commit/083e71d1e5439f914e167bb416392eb48f7a80f1"><b>Pushed to GiWifi-Auto</b></a><br>
+  <sub>Sep 24, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/sub2api/commit/497543406910801008008f9508a177dc87445d24"><b>Pushed to sub2api</b></a><br>
   <sub>Sep 23, 2026</sub>
 </p>
 
@@ -147,11 +152,6 @@
 
 <p>
   <a href="https://github.com/onprs/Emby-Auto/commit/858780d00bf5cdc77a3a52d517550ef5e70f83ef"><b>Pushed to Emby-Auto</b></a><br>
-  <sub>Sep 13, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/GiWifi-Auto/commit/ac44cd44b86a87386f092fe141361a49d064aa34"><b>Pushed to GiWifi-Auto</b></a><br>
   <sub>Sep 13, 2026</sub>
 </p>
 
