@@ -136,13 +136,13 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/GiWifi-Auto/commit/083e71d1e5439f914e167bb416392eb48f7a80f1"><b>Pushed to GiWifi-Auto</b></a><br>
+  <a href="https://github.com/onprs/sub2api/commit/659685113ec4b5d742c36675dcf8571dc5eb6e34"><b>Pushed to sub2api</b></a><br>
   <sub>Sep 24, 2026</sub>
 </p>
 
 <p>
-  <a href="https://github.com/onprs/sub2api/commit/497543406910801008008f9508a177dc87445d24"><b>Pushed to sub2api</b></a><br>
-  <sub>Sep 23, 2026</sub>
+  <a href="https://github.com/onprs/GiWifi-Auto/commit/083e71d1e5439f914e167bb416392eb48f7a80f1"><b>Pushed to GiWifi-Auto</b></a><br>
+  <sub>Sep 24, 2026</sub>
 </p>
 
 <p>
