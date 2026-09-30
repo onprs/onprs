@@ -136,8 +136,13 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/sub2api/commit/d66066966506c1ed02a818793cdfcd53b008e446"><b>Pushed to sub2api</b></a><br>
-  <sub>Sep 26, 2026</sub>
+  <a href="https://github.com/onprs/OCS-Tiku/commit/b8567380156eb3b2ec20cd8de2266bafa5247f09"><b>Pushed to OCS-Tiku</b></a><br>
+  <sub>Sep 30, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/sub2api/commit/54d0fe1fdfb71d527d174ac2936f8b6f6484dde1"><b>Pushed to sub2api</b></a><br>
+  <sub>Sep 29, 2026</sub>
 </p>
 
 <p>
@@ -153,11 +158,6 @@
 <p>
   <a href="https://github.com/onprs/Emby-Auto/commit/858780d00bf5cdc77a3a52d517550ef5e70f83ef"><b>Pushed to Emby-Auto</b></a><br>
   <sub>Sep 13, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/stablyai/orca/issues/20325"><b>Labeled an issue in stablyai/orca</b></a><br>
-  <sub>Sep 12, 2026</sub>
 </p>
 
 <p><a href="https://github.com/onprs?tab=overview">View all activity</a></p>
