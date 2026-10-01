@@ -136,13 +136,13 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/OCS-Tiku/commit/b8567380156eb3b2ec20cd8de2266bafa5247f09"><b>Pushed to OCS-Tiku</b></a><br>
-  <sub>Sep 30, 2026</sub>
+  <a href="https://github.com/onprs/sub2api"><b>Created a branch in sub2api</b></a><br>
+  <sub>Oct 1, 2026</sub>
 </p>
 
 <p>
-  <a href="https://github.com/onprs/sub2api/commit/54d0fe1fdfb71d527d174ac2936f8b6f6484dde1"><b>Pushed to sub2api</b></a><br>
-  <sub>Sep 29, 2026</sub>
+  <a href="https://github.com/onprs/OCS-Tiku/commit/b8567380156eb3b2ec20cd8de2266bafa5247f09"><b>Pushed to OCS-Tiku</b></a><br>
+  <sub>Sep 30, 2026</sub>
 </p>
 
 <p>
