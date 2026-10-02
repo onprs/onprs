@@ -136,7 +136,7 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/sub2api"><b>Created a branch in sub2api</b></a><br>
+  <a href="https://github.com/onprs/sub2api/commit/733d2b03be88ef3038041b939bf821e77f517400"><b>Pushed to sub2api</b></a><br>
   <sub>Oct 1, 2026</sub>
 </p>
 
