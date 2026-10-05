@@ -136,8 +136,13 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/sub2api/commit/f4d83033d9c64b412d39a4b8840cddea9e05d889"><b>Pushed to sub2api</b></a><br>
-  <sub>Oct 2, 2026</sub>
+  <a href="https://github.com/onprs/sub2api/commit/3f54dd68f5b9490174c38790c2d5d8773df72ffd"><b>Pushed to sub2api</b></a><br>
+  <sub>Oct 5, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/Emby-Auto/commit/f8d7dc840ff89c04083221e740957003f6fd7cf9"><b>Pushed to Emby-Auto</b></a><br>
+  <sub>Oct 3, 2026</sub>
 </p>
 
 <p>
@@ -153,11 +158,6 @@
 <p>
   <a href="https://github.com/onprs/AstrbotPlugins/commit/8e99de012e479377d11c9260b6105449affef96f"><b>Pushed to AstrbotPlugins</b></a><br>
   <sub>Sep 16, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/Emby-Auto/commit/858780d00bf5cdc77a3a52d517550ef5e70f83ef"><b>Pushed to Emby-Auto</b></a><br>
-  <sub>Sep 13, 2026</sub>
 </p>
 
 <p><a href="https://github.com/onprs?tab=overview">View all activity</a></p>
