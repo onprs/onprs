@@ -136,7 +136,17 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/sub2api/commit/3f54dd68f5b9490174c38790c2d5d8773df72ffd"><b>Pushed to sub2api</b></a><br>
+  <a href="https://github.com/onprs/OnprsBench_Dataset/commit/8e0d4fc36bb361c720d57e7c850c35c1aba2dfe2"><b>Pushed to OnprsBench_Dataset</b></a><br>
+  <sub>Oct 6, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/OnprsBench_Core/commit/bfff529b6d50d17612b41cd3ff443f97e4c3cbad"><b>Pushed to OnprsBench_Core</b></a><br>
+  <sub>Oct 6, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/sub2api/commit/d3238b3ea56ef1741f58f11d42eb795a71f64d3a"><b>Pushed to sub2api</b></a><br>
   <sub>Oct 5, 2026</sub>
 </p>
 
@@ -148,16 +158,6 @@
 <p>
   <a href="https://github.com/onprs/OCS-Tiku/commit/b8567380156eb3b2ec20cd8de2266bafa5247f09"><b>Pushed to OCS-Tiku</b></a><br>
   <sub>Sep 30, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/GiWifi-Auto/commit/083e71d1e5439f914e167bb416392eb48f7a80f1"><b>Pushed to GiWifi-Auto</b></a><br>
-  <sub>Sep 24, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/AstrbotPlugins/commit/8e99de012e479377d11c9260b6105449affef96f"><b>Pushed to AstrbotPlugins</b></a><br>
-  <sub>Sep 16, 2026</sub>
 </p>
 
 <p><a href="https://github.com/onprs?tab=overview">View all activity</a></p>
