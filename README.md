@@ -136,18 +136,18 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/OnprsBench_Dataset/commit/8e0d4fc36bb361c720d57e7c850c35c1aba2dfe2"><b>Pushed to OnprsBench_Dataset</b></a><br>
-  <sub>Oct 6, 2026</sub>
+  <a href="https://github.com/onprs/OnprsBench_Core/commit/82fe68a7633dd3ac783e07af1b826c4149acf07f"><b>Pushed to OnprsBench_Core</b></a><br>
+  <sub>Oct 7, 2026</sub>
 </p>
 
 <p>
-  <a href="https://github.com/onprs/OnprsBench_Core/commit/bfff529b6d50d17612b41cd3ff443f97e4c3cbad"><b>Pushed to OnprsBench_Core</b></a><br>
-  <sub>Oct 6, 2026</sub>
+  <a href="https://github.com/onprs/OnprsBench_Dataset/releases/tag/v0.6.0"><b>Published a release in OnprsBench_Dataset</b></a><br>
+  <sub>Oct 7, 2026</sub>
 </p>
 
 <p>
-  <a href="https://github.com/onprs/sub2api/commit/d3238b3ea56ef1741f58f11d42eb795a71f64d3a"><b>Pushed to sub2api</b></a><br>
-  <sub>Oct 5, 2026</sub>
+  <a href="https://github.com/onprs/sub2api"><b>Created a branch in sub2api</b></a><br>
+  <sub>Oct 7, 2026</sub>
 </p>
 
 <p>
