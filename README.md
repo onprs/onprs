@@ -136,7 +136,7 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/OnprsBench_Core/commit/82fe68a7633dd3ac783e07af1b826c4149acf07f"><b>Pushed to OnprsBench_Core</b></a><br>
+  <a href="https://github.com/onprs/OnprsBench_Core/commit/9780f204f8d7fc7a8ce558c4b9e838f76a13915a"><b>Pushed to OnprsBench_Core</b></a><br>
   <sub>Oct 7, 2026</sub>
 </p>
 
@@ -146,18 +146,13 @@
 </p>
 
 <p>
-  <a href="https://github.com/onprs/sub2api"><b>Created a branch in sub2api</b></a><br>
+  <a href="https://github.com/onprs/sub2api/commit/86a95c0e5734d9f64244b254d8bd12aed38adcfc"><b>Pushed to sub2api</b></a><br>
   <sub>Oct 7, 2026</sub>
 </p>
 
 <p>
   <a href="https://github.com/onprs/Emby-Auto/commit/f8d7dc840ff89c04083221e740957003f6fd7cf9"><b>Pushed to Emby-Auto</b></a><br>
   <sub>Oct 3, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/OCS-Tiku/commit/b8567380156eb3b2ec20cd8de2266bafa5247f09"><b>Pushed to OCS-Tiku</b></a><br>
-  <sub>Sep 30, 2026</sub>
 </p>
 
 <p><a href="https://github.com/onprs?tab=overview">View all activity</a></p>
