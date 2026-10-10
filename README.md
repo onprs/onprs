@@ -136,17 +136,22 @@
 
 <!-- recent-activity:start -->
 <p>
+  <a href="https://github.com/OpenListTeam/OpenList/issues/3178"><b>Labeled an issue in OpenListTeam/OpenList</b></a><br>
+  <sub>Oct 10, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/sub2api/commit/7a91fb0da7f16b3cc3ee14d3b5f0a9741589dcde"><b>Pushed to sub2api</b></a><br>
+  <sub>Oct 10, 2026</sub>
+</p>
+
+<p>
   <a href="https://github.com/onprs/OnprsBench_Core/commit/9780f204f8d7fc7a8ce558c4b9e838f76a13915a"><b>Pushed to OnprsBench_Core</b></a><br>
   <sub>Oct 7, 2026</sub>
 </p>
 
 <p>
   <a href="https://github.com/onprs/OnprsBench_Dataset/releases/tag/v0.6.0"><b>Published a release in OnprsBench_Dataset</b></a><br>
-  <sub>Oct 7, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/sub2api/commit/86a95c0e5734d9f64244b254d8bd12aed38adcfc"><b>Pushed to sub2api</b></a><br>
   <sub>Oct 7, 2026</sub>
 </p>
 
