@@ -136,12 +136,12 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/OpenListTeam/OpenList/issues/3178"><b>Labeled an issue in OpenListTeam/OpenList</b></a><br>
+  <a href="https://github.com/onprs/sub2api/commit/c43907736d005c41c5c6dd4203176e2b8d7e9b36"><b>Pushed to sub2api</b></a><br>
   <sub>Oct 10, 2026</sub>
 </p>
 
 <p>
-  <a href="https://github.com/onprs/sub2api/commit/7a91fb0da7f16b3cc3ee14d3b5f0a9741589dcde"><b>Pushed to sub2api</b></a><br>
+  <a href="https://github.com/OpenListTeam/OpenList/issues/3178"><b>Labeled an issue in OpenListTeam/OpenList</b></a><br>
   <sub>Oct 10, 2026</sub>
 </p>
 
