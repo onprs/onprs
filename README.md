@@ -136,28 +136,28 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/sub2api/commit/c43907736d005c41c5c6dd4203176e2b8d7e9b36"><b>Pushed to sub2api</b></a><br>
-  <sub>Oct 10, 2026</sub>
+  <a href="https://github.com/onprs/EXTranslator/commit/6a1903a26e0bf68c29dd11e1841daccd1df8af30"><b>Pushed to EXTranslator</b></a><br>
+  <sub>Oct 12, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/OCS-Tiku/commit/bc2baf87c6622dfd02005144c5abb5add5a17c3f"><b>Pushed to OCS-Tiku</b></a><br>
+  <sub>Oct 12, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/GiWifi-Auto/commit/98b1eced267711885b0353028a9c0588b9c95b03"><b>Pushed to GiWifi-Auto</b></a><br>
+  <sub>Oct 12, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/sub2api"><b>Created a branch in sub2api</b></a><br>
+  <sub>Oct 12, 2026</sub>
 </p>
 
 <p>
   <a href="https://github.com/OpenListTeam/OpenList/issues/3178"><b>Labeled an issue in OpenListTeam/OpenList</b></a><br>
   <sub>Oct 10, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/OnprsBench_Core/commit/9780f204f8d7fc7a8ce558c4b9e838f76a13915a"><b>Pushed to OnprsBench_Core</b></a><br>
-  <sub>Oct 7, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/OnprsBench_Dataset/releases/tag/v0.6.0"><b>Published a release in OnprsBench_Dataset</b></a><br>
-  <sub>Oct 7, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/Emby-Auto/commit/f8d7dc840ff89c04083221e740957003f6fd7cf9"><b>Pushed to Emby-Auto</b></a><br>
-  <sub>Oct 3, 2026</sub>
 </p>
 
 <p><a href="https://github.com/onprs?tab=overview">View all activity</a></p>
