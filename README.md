@@ -136,6 +136,11 @@
 
 <!-- recent-activity:start -->
 <p>
+  <a href="https://github.com/onprs/sub2api/commit/958a53459a0d4ccba002bdcb21d3ac04c81c034c"><b>Pushed to sub2api</b></a><br>
+  <sub>Oct 13, 2026</sub>
+</p>
+
+<p>
   <a href="https://github.com/onprs/EXTranslator/commit/6a1903a26e0bf68c29dd11e1841daccd1df8af30"><b>Pushed to EXTranslator</b></a><br>
   <sub>Oct 12, 2026</sub>
 </p>
@@ -147,11 +152,6 @@
 
 <p>
   <a href="https://github.com/onprs/GiWifi-Auto/commit/98b1eced267711885b0353028a9c0588b9c95b03"><b>Pushed to GiWifi-Auto</b></a><br>
-  <sub>Oct 12, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/sub2api"><b>Created a branch in sub2api</b></a><br>
   <sub>Oct 12, 2026</sub>
 </p>
 
