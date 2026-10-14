@@ -136,8 +136,13 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/sub2api/commit/958a53459a0d4ccba002bdcb21d3ac04c81c034c"><b>Pushed to sub2api</b></a><br>
-  <sub>Oct 13, 2026</sub>
+  <a href="https://github.com/onprs/sub2api/commit/8233d72b507fc9db62fadaf670b00ab3e057cabd"><b>Pushed to sub2api</b></a><br>
+  <sub>Oct 14, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/Emby-Auto"><b>Closed a pull request in Emby-Auto</b></a><br>
+  <sub>Oct 14, 2026</sub>
 </p>
 
 <p>
@@ -151,13 +156,8 @@
 </p>
 
 <p>
-  <a href="https://github.com/onprs/GiWifi-Auto/commit/98b1eced267711885b0353028a9c0588b9c95b03"><b>Pushed to GiWifi-Auto</b></a><br>
+  <a href="https://github.com/onprs/OnprsBench_Dataset/commit/05bd6afeffb9479d05a1e68054d593a9f12a39ea"><b>Pushed to OnprsBench_Dataset</b></a><br>
   <sub>Oct 12, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/OpenListTeam/OpenList/issues/3178"><b>Labeled an issue in OpenListTeam/OpenList</b></a><br>
-  <sub>Oct 10, 2026</sub>
 </p>
 
 <p><a href="https://github.com/onprs?tab=overview">View all activity</a></p>
