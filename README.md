@@ -137,7 +137,7 @@
 <!-- recent-activity:start -->
 <p>
   <a href="https://github.com/onprs/Emby-Auto"><b>Merged a pull request in Emby-Auto</b></a><br>
-  <sub>Oct 16, 2026</sub>
+  <sub>Oct 17, 2026</sub>
 </p>
 
 <p>
