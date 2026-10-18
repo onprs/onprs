@@ -136,13 +136,13 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/Emby-Auto"><b>Merged a pull request in Emby-Auto</b></a><br>
+  <a href="https://github.com/onprs/Emby-Auto/commit/0841daa1ec37c6bdb8617f02cee4c666e31fe364"><b>Pushed to Emby-Auto</b></a><br>
   <sub>Oct 17, 2026</sub>
 </p>
 
 <p>
-  <a href="https://github.com/onprs/sub2api/commit/d5e33c1cda05923f0a6fcfdbcfdb9588954ef83a"><b>Pushed to sub2api</b></a><br>
-  <sub>Oct 14, 2026</sub>
+  <a href="https://github.com/onprs/sub2api/commit/8b81f3c21afa2c4cbeb486f49b0d10fda1256b90"><b>Pushed to sub2api</b></a><br>
+  <sub>Oct 16, 2026</sub>
 </p>
 
 <p>
