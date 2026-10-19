@@ -136,7 +136,12 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/Emby-Auto/commit/0841daa1ec37c6bdb8617f02cee4c666e31fe364"><b>Pushed to Emby-Auto</b></a><br>
+  <a href="https://github.com/onprs/OCS-Tiku/commit/8efab8de3928412130204110e4154393dd02353c"><b>Pushed to OCS-Tiku</b></a><br>
+  <sub>Oct 19, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/Emby-Auto/commit/fd56419a012431f16db42fc22c93818018f7aa8c"><b>Pushed to Emby-Auto</b></a><br>
   <sub>Oct 17, 2026</sub>
 </p>
 
@@ -147,11 +152,6 @@
 
 <p>
   <a href="https://github.com/onprs/EXTranslator/commit/6a1903a26e0bf68c29dd11e1841daccd1df8af30"><b>Pushed to EXTranslator</b></a><br>
-  <sub>Oct 12, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/OCS-Tiku/commit/bc2baf87c6622dfd02005144c5abb5add5a17c3f"><b>Pushed to OCS-Tiku</b></a><br>
   <sub>Oct 12, 2026</sub>
 </p>
 
