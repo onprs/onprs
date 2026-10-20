@@ -136,27 +136,27 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/OCS-Tiku/commit/8efab8de3928412130204110e4154393dd02353c"><b>Pushed to OCS-Tiku</b></a><br>
+  <a href="https://github.com/onprs/sub2api/commit/60fa857ad51165717f9dae8283e323c56fc05d61"><b>Pushed to sub2api</b></a><br>
   <sub>Oct 19, 2026</sub>
 </p>
 
 <p>
-  <a href="https://github.com/onprs/Emby-Auto/commit/fd56419a012431f16db42fc22c93818018f7aa8c"><b>Pushed to Emby-Auto</b></a><br>
-  <sub>Oct 17, 2026</sub>
+  <a href="https://github.com/Wei-Shaw/sub2api/issues/8221"><b>Opened an issue in Wei-Shaw/sub2api</b></a><br>
+  <sub>Oct 19, 2026</sub>
 </p>
 
 <p>
-  <a href="https://github.com/onprs/sub2api/commit/8b81f3c21afa2c4cbeb486f49b0d10fda1256b90"><b>Pushed to sub2api</b></a><br>
-  <sub>Oct 16, 2026</sub>
+  <a href="https://github.com/onprs/Emby-Auto/commit/35d0422b0ceee5f0abaccd24e71f4e3a1c41b826"><b>Pushed to Emby-Auto</b></a><br>
+  <sub>Oct 19, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/OCS-Tiku/commit/15d4fa5767ccf4353e3c1e7940d927e16eeaae2d"><b>Pushed to OCS-Tiku</b></a><br>
+  <sub>Oct 19, 2026</sub>
 </p>
 
 <p>
   <a href="https://github.com/onprs/EXTranslator/commit/6a1903a26e0bf68c29dd11e1841daccd1df8af30"><b>Pushed to EXTranslator</b></a><br>
-  <sub>Oct 12, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/OnprsBench_Dataset/commit/05bd6afeffb9479d05a1e68054d593a9f12a39ea"><b>Pushed to OnprsBench_Dataset</b></a><br>
   <sub>Oct 12, 2026</sub>
 </p>
 
