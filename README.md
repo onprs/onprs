@@ -136,6 +136,11 @@
 
 <!-- recent-activity:start -->
 <p>
+  <a href="https://github.com/onprs/ByebyeOCS"><b>Created a branch in ByebyeOCS</b></a><br>
+  <sub>Oct 20, 2026</sub>
+</p>
+
+<p>
   <a href="https://github.com/onprs/sub2api/commit/60fa857ad51165717f9dae8283e323c56fc05d61"><b>Pushed to sub2api</b></a><br>
   <sub>Oct 19, 2026</sub>
 </p>
@@ -153,11 +158,6 @@
 <p>
   <a href="https://github.com/onprs/OCS-Tiku/commit/15d4fa5767ccf4353e3c1e7940d927e16eeaae2d"><b>Pushed to OCS-Tiku</b></a><br>
   <sub>Oct 19, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/EXTranslator/commit/6a1903a26e0bf68c29dd11e1841daccd1df8af30"><b>Pushed to EXTranslator</b></a><br>
-  <sub>Oct 12, 2026</sub>
 </p>
 
 <p><a href="https://github.com/onprs?tab=overview">View all activity</a></p>
