@@ -141,6 +141,11 @@
 </p>
 
 <p>
+  <a href="https://github.com/onprs/OCS-Tiku/commit/b707efb985911c7840abb9ce51d8f45a052b1554"><b>Pushed to OCS-Tiku</b></a><br>
+  <sub>Oct 20, 2026</sub>
+</p>
+
+<p>
   <a href="https://github.com/onprs/sub2api/commit/60fa857ad51165717f9dae8283e323c56fc05d61"><b>Pushed to sub2api</b></a><br>
   <sub>Oct 19, 2026</sub>
 </p>
@@ -152,11 +157,6 @@
 
 <p>
   <a href="https://github.com/onprs/Emby-Auto/commit/35d0422b0ceee5f0abaccd24e71f4e3a1c41b826"><b>Pushed to Emby-Auto</b></a><br>
-  <sub>Oct 19, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/OCS-Tiku/commit/15d4fa5767ccf4353e3c1e7940d927e16eeaae2d"><b>Pushed to OCS-Tiku</b></a><br>
   <sub>Oct 19, 2026</sub>
 </p>
 
