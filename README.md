@@ -136,8 +136,18 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/ByebyeOCS"><b>Created a branch in ByebyeOCS</b></a><br>
-  <sub>Oct 20, 2026</sub>
+  <a href="https://github.com/onprs/AstrbotPlugins/commit/22b9cef4e81a49fb8177b89cd634f91787553e2c"><b>Pushed to AstrbotPlugins</b></a><br>
+  <sub>Oct 23, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/ByebyeOCS/commit/e5e6d290c2c65ab412a71980c01d6e1be662f708"><b>Pushed to ByebyeOCS</b></a><br>
+  <sub>Oct 22, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/ByebyeOCS-Tiku"><b>Created a branch in ByebyeOCS-Tiku</b></a><br>
+  <sub>Oct 22, 2026</sub>
 </p>
 
 <p>
@@ -147,16 +157,6 @@
 
 <p>
   <a href="https://github.com/onprs/sub2api/commit/60fa857ad51165717f9dae8283e323c56fc05d61"><b>Pushed to sub2api</b></a><br>
-  <sub>Oct 19, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/Wei-Shaw/sub2api/issues/8221"><b>Opened an issue in Wei-Shaw/sub2api</b></a><br>
-  <sub>Oct 19, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/Emby-Auto/commit/35d0422b0ceee5f0abaccd24e71f4e3a1c41b826"><b>Pushed to Emby-Auto</b></a><br>
   <sub>Oct 19, 2026</sub>
 </p>
 
