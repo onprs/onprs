@@ -136,6 +136,16 @@
 
 <!-- recent-activity:start -->
 <p>
+  <a href="https://github.com/onprs/GiWifi-Auto/releases/tag/v1.2.0"><b>Published a release in GiWifi-Auto</b></a><br>
+  <sub>Oct 25, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/sub2api/commit/a8a0d7275945f0754fcea26390bc782214fdf7ca"><b>Pushed to sub2api</b></a><br>
+  <sub>Oct 24, 2026</sub>
+</p>
+
+<p>
   <a href="https://github.com/onprs/ByebyeOCS-Tiku/commit/9060d5f48fa8d033d8529b4527b83dc139dcb47b"><b>Pushed to ByebyeOCS-Tiku</b></a><br>
   <sub>Oct 23, 2026</sub>
 </p>
@@ -148,16 +158,6 @@
 <p>
   <a href="https://github.com/onprs/AstrbotPlugins/commit/22b9cef4e81a49fb8177b89cd634f91787553e2c"><b>Pushed to AstrbotPlugins</b></a><br>
   <sub>Oct 23, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/OCS-Tiku/commit/b707efb985911c7840abb9ce51d8f45a052b1554"><b>Pushed to OCS-Tiku</b></a><br>
-  <sub>Oct 20, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/sub2api/commit/60fa857ad51165717f9dae8283e323c56fc05d61"><b>Pushed to sub2api</b></a><br>
-  <sub>Oct 19, 2026</sub>
 </p>
 
 <p><a href="https://github.com/onprs?tab=overview">View all activity</a></p>
