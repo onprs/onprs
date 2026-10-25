@@ -56,66 +56,6 @@
 
 <br>
 
-<h3>🚀 Featured Projects</h3>
-
-<table>
-<tr>
-  <th>Project</th>
-  <th>Description</th>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://github.com/onprs/Emby-Auto">
-      <b>Emby Auto</b>
-    </a>
-  </td>
-  <td>
-    Self-hosted media automation platform
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://github.com/onprs/OnprsEmail">
-      <b>Onprs Email</b>
-    </a>
-  </td>
-  <td>
-    Self-hosted email service for the onprs.online domain
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://github.com/onprs/GiWifi-Auto">
-      <b>GiWifi Auto</b>
-    </a>
-  </td>
-  <td>
-    Automatic GiWiFi authentication for OpenWrt
-  </td>
-</tr>
-</table>
-
-<br>
-
-<h3>🏠 Homelab</h3>
-
-<p>
-  I enjoy messing around with self-hosted services,
-  networking and infrastructure.
-</p>
-
-<code>Linux</code>
-<code>Docker</code>
-<code>OpenWrt</code>
-<code>Cloudflare</code>
-<code>AWS</code>
-<code>Emby</code>
-
-<br><br>
-
 <h3>📫 Contact</h3>
 
 <p>
@@ -125,6 +65,18 @@
 
   <a href="https://github.com/onprs">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://t.me/onprsss">
+    <img src="https://img.shields.io/badge/Telegram-onprsss-26A5E4?style=flat-square&logo=telegram&logoColor=white">
+  </a>
+
+  <a href="https://wpa.qq.com/msgrd?v=3&amp;uin=839097298&amp;site=qq&amp;menu=yes">
+    <img src="https://img.shields.io/badge/QQ-839097298-12B7F5?style=flat-square&logo=tencentqq&logoColor=white">
+  </a>
+
+  <a href="mailto:onprs@qq.com">
+    <img src="https://img.shields.io/badge/Email-onprs%40qq.com-D14836?style=flat-square">
   </a>
 </p>
 
