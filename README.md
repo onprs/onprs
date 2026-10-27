@@ -88,6 +88,16 @@
 
 <!-- recent-activity:start -->
 <p>
+  <a href="https://github.com/onprs/ByebyeOCS/commit/3040e72577f47fa9eddeeee6970fb0d4a2e06ec5"><b>Pushed to ByebyeOCS</b></a><br>
+  <sub>Oct 27, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/ByebyeOCS-Tiku/commit/630c0dc06aee5d41a6771e2b7d0df87e43c1089e"><b>Pushed to ByebyeOCS-Tiku</b></a><br>
+  <sub>Oct 27, 2026</sub>
+</p>
+
+<p>
   <a href="https://github.com/onprs/sub2api/commit/0be4813615b15159bfef639820bac7ce2654d21b"><b>Pushed to sub2api</b></a><br>
   <sub>Oct 26, 2026</sub>
 </p>
@@ -95,16 +105,6 @@
 <p>
   <a href="https://github.com/onprs/AstrbotPlugins/commit/8a636b664f86a3d85914562ac99d6e4f4abefed1"><b>Pushed to AstrbotPlugins</b></a><br>
   <sub>Oct 26, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/ByebyeOCS/commit/71af4f4e3afb0c8e3a6746acca937541d79dfbe6"><b>Pushed to ByebyeOCS</b></a><br>
-  <sub>Oct 25, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/ByebyeOCS-Tiku/commit/37227573938526b0e78d25af113abac0a37d289b"><b>Pushed to ByebyeOCS-Tiku</b></a><br>
-  <sub>Oct 25, 2026</sub>
 </p>
 
 <p>
