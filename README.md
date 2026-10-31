@@ -88,28 +88,28 @@
 
 <!-- recent-activity:start -->
 <p>
+  <a href="https://github.com/onprs/Emby-Auto"><b>Merged a pull request in Emby-Auto</b></a><br>
+  <sub>Oct 30, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/ByebyeOCS/commit/a00281dfab54249b60e7eccf24b84955280f98f0"><b>Pushed to ByebyeOCS</b></a><br>
+  <sub>Oct 29, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/ByebyeOCS-Tiku/commit/b11009f192388cf0b8fec0fe695717b16a2d8937"><b>Pushed to ByebyeOCS-Tiku</b></a><br>
+  <sub>Oct 29, 2026</sub>
+</p>
+
+<p>
   <a href="https://github.com/onprs/sub2api/commit/5a19ec9658e607c725ea6eb86d0408f75ef1cc9d"><b>Pushed to sub2api</b></a><br>
   <sub>Oct 29, 2026</sub>
 </p>
 
 <p>
-  <a href="https://github.com/onprs/ByebyeOCS/commit/3040e72577f47fa9eddeeee6970fb0d4a2e06ec5"><b>Pushed to ByebyeOCS</b></a><br>
-  <sub>Oct 27, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/ByebyeOCS-Tiku/commit/630c0dc06aee5d41a6771e2b7d0df87e43c1089e"><b>Pushed to ByebyeOCS-Tiku</b></a><br>
-  <sub>Oct 27, 2026</sub>
-</p>
-
-<p>
   <a href="https://github.com/onprs/AstrbotPlugins/commit/8a636b664f86a3d85914562ac99d6e4f4abefed1"><b>Pushed to AstrbotPlugins</b></a><br>
   <sub>Oct 26, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/GiWifi-Auto/releases/tag/v1.2.0"><b>Published a release in GiWifi-Auto</b></a><br>
-  <sub>Oct 25, 2026</sub>
 </p>
 
 <p><a href="https://github.com/onprs?tab=overview">View all activity</a></p>
