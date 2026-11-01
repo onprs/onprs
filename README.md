@@ -67,6 +67,10 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">
   </a>
 
+  <a href="https://x.com/onprssss">
+    <img src="https://img.shields.io/badge/X-onprssss-000000?style=flat-square&logo=x&logoColor=white">
+  </a>
+
   <a href="https://t.me/onprsss">
     <img src="https://img.shields.io/badge/Telegram-onprsss-26A5E4?style=flat-square&logo=telegram&logoColor=white">
   </a>
