@@ -92,7 +92,7 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/Emby-Auto"><b>Merged a pull request in Emby-Auto</b></a><br>
+  <a href="https://github.com/onprs/Emby-Auto/commit/3a42d4139d4d08dea0d41c89ee8979878f8ace5f"><b>Pushed to Emby-Auto</b></a><br>
   <sub>Nov 1, 2026</sub>
 </p>
 
