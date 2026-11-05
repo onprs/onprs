@@ -92,6 +92,16 @@
 
 <!-- recent-activity:start -->
 <p>
+  <a href="https://github.com/onprs/ByebyeOCS/commit/9b57e73b8012313b7db0272751bc463616ea734f"><b>Pushed to ByebyeOCS</b></a><br>
+  <sub>Nov 4, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/ByebyeOCS-Tiku/commit/734e109ff6fc772443f41fdf16efadffccdee964"><b>Pushed to ByebyeOCS-Tiku</b></a><br>
+  <sub>Nov 2, 2026</sub>
+</p>
+
+<p>
   <a href="https://github.com/onprs/Emby-Auto/commit/3a42d4139d4d08dea0d41c89ee8979878f8ace5f"><b>Pushed to Emby-Auto</b></a><br>
   <sub>Nov 1, 2026</sub>
 </p>
@@ -99,16 +109,6 @@
 <p>
   <a href="https://github.com/onprs/sub2api/commit/ac0b0f75c778e33b55292abed707b69353085416"><b>Pushed to sub2api</b></a><br>
   <sub>Oct 31, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/ByebyeOCS/commit/a00281dfab54249b60e7eccf24b84955280f98f0"><b>Pushed to ByebyeOCS</b></a><br>
-  <sub>Oct 29, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/ByebyeOCS-Tiku/commit/b11009f192388cf0b8fec0fe695717b16a2d8937"><b>Pushed to ByebyeOCS-Tiku</b></a><br>
-  <sub>Oct 29, 2026</sub>
 </p>
 
 <p>
