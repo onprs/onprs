@@ -92,7 +92,17 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/ByebyeOCS/commit/9b57e73b8012313b7db0272751bc463616ea734f"><b>Pushed to ByebyeOCS</b></a><br>
+  <a href="https://github.com/onprs/RM-VISION-CUSTOMTERMINAL/commit/4fe7036221547cc8e7bc2d999f0a9b455084d344"><b>Pushed to RM-VISION-CUSTOMTERMINAL</b></a><br>
+  <sub>Nov 6, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/ByebyeOCS/commit/d64e239c3c824b0b09639a3a3769c28ca4f8826d"><b>Pushed to ByebyeOCS</b></a><br>
+  <sub>Nov 5, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/sub2api/commit/47004c391b8448ac3b8a36dc7d020f16161967e7"><b>Pushed to sub2api</b></a><br>
   <sub>Nov 4, 2026</sub>
 </p>
 
@@ -104,16 +114,6 @@
 <p>
   <a href="https://github.com/onprs/Emby-Auto/commit/3a42d4139d4d08dea0d41c89ee8979878f8ace5f"><b>Pushed to Emby-Auto</b></a><br>
   <sub>Nov 1, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/sub2api/commit/ac0b0f75c778e33b55292abed707b69353085416"><b>Pushed to sub2api</b></a><br>
-  <sub>Oct 31, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/AstrbotPlugins/commit/8a636b664f86a3d85914562ac99d6e4f4abefed1"><b>Pushed to AstrbotPlugins</b></a><br>
-  <sub>Oct 26, 2026</sub>
 </p>
 
 <p><a href="https://github.com/onprs?tab=overview">View all activity</a></p>
