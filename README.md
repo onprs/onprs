@@ -92,18 +92,18 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/RM-VISION-CUSTOMTERMINAL/commit/4fe7036221547cc8e7bc2d999f0a9b455084d344"><b>Pushed to RM-VISION-CUSTOMTERMINAL</b></a><br>
+  <a href="https://github.com/onprs/RM-VISION-CUSTOMTERMINAL/releases/tag/v0.1.0"><b>Published a release in RM-VISION-CUSTOMTERMINAL</b></a><br>
+  <sub>Nov 6, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/sub2api/commit/bb2546ad2e477da61079b1275dedd918a9dd22cf"><b>Pushed to sub2api</b></a><br>
   <sub>Nov 6, 2026</sub>
 </p>
 
 <p>
   <a href="https://github.com/onprs/ByebyeOCS/commit/d64e239c3c824b0b09639a3a3769c28ca4f8826d"><b>Pushed to ByebyeOCS</b></a><br>
   <sub>Nov 5, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/sub2api/commit/47004c391b8448ac3b8a36dc7d020f16161967e7"><b>Pushed to sub2api</b></a><br>
-  <sub>Nov 4, 2026</sub>
 </p>
 
 <p>
