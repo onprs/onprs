@@ -92,11 +92,6 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/RM-VISION-CUSTOMTERMINAL/releases/tag/v0.1.0"><b>Published a release in RM-VISION-CUSTOMTERMINAL</b></a><br>
-  <sub>Nov 6, 2026</sub>
-</p>
-
-<p>
   <a href="https://github.com/onprs/sub2api/commit/bb2546ad2e477da61079b1275dedd918a9dd22cf"><b>Pushed to sub2api</b></a><br>
   <sub>Nov 6, 2026</sub>
 </p>
@@ -114,6 +109,11 @@
 <p>
   <a href="https://github.com/onprs/Emby-Auto/commit/3a42d4139d4d08dea0d41c89ee8979878f8ace5f"><b>Pushed to Emby-Auto</b></a><br>
   <sub>Nov 1, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/AstrbotPlugins/commit/8a636b664f86a3d85914562ac99d6e4f4abefed1"><b>Pushed to AstrbotPlugins</b></a><br>
+  <sub>Oct 26, 2026</sub>
 </p>
 
 <p><a href="https://github.com/onprs?tab=overview">View all activity</a></p>
