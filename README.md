@@ -92,13 +92,13 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/sub2api/commit/bb2546ad2e477da61079b1275dedd918a9dd22cf"><b>Pushed to sub2api</b></a><br>
-  <sub>Nov 6, 2026</sub>
+  <a href="https://github.com/onprs/sub2api/commit/25d2ebb4048b4c0be03fe74833178237d0507451"><b>Pushed to sub2api</b></a><br>
+  <sub>Nov 9, 2026</sub>
 </p>
 
 <p>
-  <a href="https://github.com/onprs/ByebyeOCS/commit/d64e239c3c824b0b09639a3a3769c28ca4f8826d"><b>Pushed to ByebyeOCS</b></a><br>
-  <sub>Nov 5, 2026</sub>
+  <a href="https://github.com/onprs/ByebyeOCS/commit/0898151f0b1824308dd9011e2a101e27611870ba"><b>Pushed to ByebyeOCS</b></a><br>
+  <sub>Nov 8, 2026</sub>
 </p>
 
 <p>
