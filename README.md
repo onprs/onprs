@@ -92,6 +92,11 @@
 
 <!-- recent-activity:start -->
 <p>
+  <a href="https://github.com/onprs/Emby-Auto/commit/43b600bcd164b78880e4587108a444b8f5d03b56"><b>Pushed to Emby-Auto</b></a><br>
+  <sub>Nov 13, 2026</sub>
+</p>
+
+<p>
   <a href="https://github.com/onprs/sub2api/commit/25d2ebb4048b4c0be03fe74833178237d0507451"><b>Pushed to sub2api</b></a><br>
   <sub>Nov 9, 2026</sub>
 </p>
@@ -104,11 +109,6 @@
 <p>
   <a href="https://github.com/onprs/ByebyeOCS-Tiku/commit/2b1bf0b8eb431d0c2d0f30820dfdfe33a077d9d3"><b>Pushed to ByebyeOCS-Tiku</b></a><br>
   <sub>Nov 8, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/Emby-Auto/commit/3a42d4139d4d08dea0d41c89ee8979878f8ace5f"><b>Pushed to Emby-Auto</b></a><br>
-  <sub>Nov 1, 2026</sub>
 </p>
 
 <p>
