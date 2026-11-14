@@ -97,8 +97,8 @@
 </p>
 
 <p>
-  <a href="https://github.com/onprs/sub2api/commit/25d2ebb4048b4c0be03fe74833178237d0507451"><b>Pushed to sub2api</b></a><br>
-  <sub>Nov 9, 2026</sub>
+  <a href="https://github.com/onprs/sub2api/commit/7634e5c8c52fd3353195b699c59d6693282fddea"><b>Pushed to sub2api</b></a><br>
+  <sub>Nov 12, 2026</sub>
 </p>
 
 <p>
@@ -109,11 +109,6 @@
 <p>
   <a href="https://github.com/onprs/ByebyeOCS-Tiku/commit/2b1bf0b8eb431d0c2d0f30820dfdfe33a077d9d3"><b>Pushed to ByebyeOCS-Tiku</b></a><br>
   <sub>Nov 8, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/AstrbotPlugins/commit/8a636b664f86a3d85914562ac99d6e4f4abefed1"><b>Pushed to AstrbotPlugins</b></a><br>
-  <sub>Oct 26, 2026</sub>
 </p>
 
 <p><a href="https://github.com/onprs?tab=overview">View all activity</a></p>
