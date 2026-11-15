@@ -92,13 +92,13 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/Emby-Auto/commit/43b600bcd164b78880e4587108a444b8f5d03b56"><b>Pushed to Emby-Auto</b></a><br>
-  <sub>Nov 13, 2026</sub>
+  <a href="https://github.com/onprs/Emby-Auto/commit/5d0ed6d3e3ccc47cdd00152c0702f38b4f994d5d"><b>Pushed to Emby-Auto</b></a><br>
+  <sub>Nov 15, 2026</sub>
 </p>
 
 <p>
-  <a href="https://github.com/onprs/sub2api/commit/7634e5c8c52fd3353195b699c59d6693282fddea"><b>Pushed to sub2api</b></a><br>
-  <sub>Nov 12, 2026</sub>
+  <a href="https://github.com/onprs/sub2api/commit/d6cc7f8ee2ff5b64d6eb814b331620604ebfc59e"><b>Pushed to sub2api</b></a><br>
+  <sub>Nov 15, 2026</sub>
 </p>
 
 <p>
