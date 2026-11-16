@@ -92,22 +92,27 @@
 
 <!-- recent-activity:start -->
 <p>
+  <a href="https://github.com/onprs/sub2api/commit/edd1daa78b58e6a55b96267f126e3a2f4317d979"><b>Pushed to sub2api</b></a><br>
+  <sub>Nov 15, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/Pi-Fusion"><b>Created a branch in Pi-Fusion</b></a><br>
+  <sub>Nov 15, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/earendil-works/pi/issues/12184"><b>Labeled an issue in earendil-works/pi</b></a><br>
+  <sub>Nov 15, 2026</sub>
+</p>
+
+<p>
   <a href="https://github.com/onprs/Emby-Auto/commit/5d0ed6d3e3ccc47cdd00152c0702f38b4f994d5d"><b>Pushed to Emby-Auto</b></a><br>
   <sub>Nov 15, 2026</sub>
 </p>
 
 <p>
-  <a href="https://github.com/onprs/sub2api/commit/d6cc7f8ee2ff5b64d6eb814b331620604ebfc59e"><b>Pushed to sub2api</b></a><br>
-  <sub>Nov 15, 2026</sub>
-</p>
-
-<p>
   <a href="https://github.com/onprs/ByebyeOCS/commit/0898151f0b1824308dd9011e2a101e27611870ba"><b>Pushed to ByebyeOCS</b></a><br>
-  <sub>Nov 8, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/ByebyeOCS-Tiku/commit/2b1bf0b8eb431d0c2d0f30820dfdfe33a077d9d3"><b>Pushed to ByebyeOCS-Tiku</b></a><br>
   <sub>Nov 8, 2026</sub>
 </p>
 
