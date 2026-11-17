@@ -92,22 +92,22 @@
 
 <!-- recent-activity:start -->
 <p>
+  <a href="https://github.com/onprs/Pi-Fusion/commit/1340d02ed2d5eea7b349e9aea2fdb5b3ac288439"><b>Pushed to Pi-Fusion</b></a><br>
+  <sub>Nov 15, 2026</sub>
+</p>
+
+<p>
   <a href="https://github.com/onprs/sub2api/commit/edd1daa78b58e6a55b96267f126e3a2f4317d979"><b>Pushed to sub2api</b></a><br>
   <sub>Nov 15, 2026</sub>
 </p>
 
 <p>
-  <a href="https://github.com/onprs/Pi-Fusion"><b>Created a branch in Pi-Fusion</b></a><br>
+  <a href="https://github.com/onprs/Emby-Auto/commit/1c6b97c0c3f16d595f9a238af69c82e5005e761f"><b>Pushed to Emby-Auto</b></a><br>
   <sub>Nov 15, 2026</sub>
 </p>
 
 <p>
   <a href="https://github.com/earendil-works/pi/issues/12184"><b>Labeled an issue in earendil-works/pi</b></a><br>
-  <sub>Nov 15, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/Emby-Auto/commit/5d0ed6d3e3ccc47cdd00152c0702f38b4f994d5d"><b>Pushed to Emby-Auto</b></a><br>
   <sub>Nov 15, 2026</sub>
 </p>
 
