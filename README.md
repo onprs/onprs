@@ -92,17 +92,17 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/Pi-Traffic-Optimization/commit/504f056a76a97a6d39d9693d9ba0639c6390df11"><b>Pushed to Pi-Traffic-Optimization</b></a><br>
+  <a href="https://github.com/onprs/Emby-Auto"><b>Merged a pull request in Emby-Auto</b></a><br>
+  <sub>Nov 18, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/Pi-Fusion/commit/a3850d1c198fd02156c40f5dce6ba4e935134b2a"><b>Pushed to Pi-Fusion</b></a><br>
   <sub>Nov 17, 2026</sub>
 </p>
 
 <p>
-  <a href="https://github.com/onprs/Emby-Auto/commit/cc8077ee262534c0be0b244f820fb04f29ed274c"><b>Pushed to Emby-Auto</b></a><br>
-  <sub>Nov 17, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/Pi-Fusion/commit/48260d03f440f9dc28c156c61a26d6f25cb08b48"><b>Pushed to Pi-Fusion</b></a><br>
+  <a href="https://github.com/onprs/Pi-Traffic-Optimization/commit/e38622082c8a67be2921a2a858035c9f58b1219a"><b>Pushed to Pi-Traffic-Optimization</b></a><br>
   <sub>Nov 17, 2026</sub>
 </p>
 
