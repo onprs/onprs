@@ -97,6 +97,11 @@
 </p>
 
 <p>
+  <a href="https://github.com/onprs/sub2api/commit/11439c584a2a8fb13f393eb41d8ea6bd9ea36de0"><b>Pushed to sub2api</b></a><br>
+  <sub>Nov 18, 2026</sub>
+</p>
+
+<p>
   <a href="https://github.com/onprs/Pi-Fusion/commit/a3850d1c198fd02156c40f5dce6ba4e935134b2a"><b>Pushed to Pi-Fusion</b></a><br>
   <sub>Nov 17, 2026</sub>
 </p>
@@ -104,11 +109,6 @@
 <p>
   <a href="https://github.com/onprs/Pi-Traffic-Optimization/commit/e38622082c8a67be2921a2a858035c9f58b1219a"><b>Pushed to Pi-Traffic-Optimization</b></a><br>
   <sub>Nov 17, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/sub2api/commit/d2cdeef880eb26f5690e552a6a274fcb13356916"><b>Pushed to sub2api</b></a><br>
-  <sub>Nov 16, 2026</sub>
 </p>
 
 <p>
