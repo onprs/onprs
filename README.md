@@ -92,18 +92,18 @@
 
 <!-- recent-activity:start -->
 <p>
-  <a href="https://github.com/onprs/Emby-Auto"><b>Merged a pull request in Emby-Auto</b></a><br>
+  <a href="https://github.com/onprs/Pi-Fusion/commit/c0e216d643522322b32636b248ac6a5cfb5404bd"><b>Pushed to Pi-Fusion</b></a><br>
+  <sub>Nov 20, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/sub2api/commit/24e2a65769751f68a947ffdeee78531f6ea225c9"><b>Pushed to sub2api</b></a><br>
   <sub>Nov 18, 2026</sub>
 </p>
 
 <p>
-  <a href="https://github.com/onprs/sub2api/commit/11439c584a2a8fb13f393eb41d8ea6bd9ea36de0"><b>Pushed to sub2api</b></a><br>
+  <a href="https://github.com/onprs/Emby-Auto/commit/0aeb0f87fac69983474a17ce13dd381005592a8a"><b>Pushed to Emby-Auto</b></a><br>
   <sub>Nov 18, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/Pi-Fusion/commit/a3850d1c198fd02156c40f5dce6ba4e935134b2a"><b>Pushed to Pi-Fusion</b></a><br>
-  <sub>Nov 17, 2026</sub>
 </p>
 
 <p>
