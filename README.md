@@ -92,28 +92,28 @@
 
 <!-- recent-activity:start -->
 <p>
+  <a href="https://github.com/onprs/Pi-Antigravity-Bridge/commit/8bd901be5bb87537b559f1bf377ff6123287d7ec"><b>Pushed to Pi-Antigravity-Bridge</b></a><br>
+  <sub>Nov 22, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/Pi-Traffic-Optimization/commit/b72dfa5485bd026057bb50bd37740cb76d4a157c"><b>Pushed to Pi-Traffic-Optimization</b></a><br>
+  <sub>Nov 22, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/sub2api/commit/75b4bc7eeb7cfc2af5a9c36ec5397391a39a95ea"><b>Pushed to sub2api</b></a><br>
+  <sub>Nov 21, 2026</sub>
+</p>
+
+<p>
   <a href="https://github.com/onprs/Pi-Fusion/commit/c0e216d643522322b32636b248ac6a5cfb5404bd"><b>Pushed to Pi-Fusion</b></a><br>
   <sub>Nov 20, 2026</sub>
 </p>
 
 <p>
-  <a href="https://github.com/onprs/sub2api/commit/24e2a65769751f68a947ffdeee78531f6ea225c9"><b>Pushed to sub2api</b></a><br>
-  <sub>Nov 18, 2026</sub>
-</p>
-
-<p>
   <a href="https://github.com/onprs/Emby-Auto/commit/0aeb0f87fac69983474a17ce13dd381005592a8a"><b>Pushed to Emby-Auto</b></a><br>
   <sub>Nov 18, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/Pi-Traffic-Optimization/commit/e38622082c8a67be2921a2a858035c9f58b1219a"><b>Pushed to Pi-Traffic-Optimization</b></a><br>
-  <sub>Nov 17, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/earendil-works/pi/issues/12184"><b>Labeled an issue in earendil-works/pi</b></a><br>
-  <sub>Nov 15, 2026</sub>
 </p>
 
 <p><a href="https://github.com/onprs?tab=overview">View all activity</a></p>
