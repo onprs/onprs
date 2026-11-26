@@ -92,28 +92,28 @@
 
 <!-- recent-activity:start -->
 <p>
+  <a href="https://github.com/onprs/Pi-Traffic-Optimization"><b>Merged a pull request in Pi-Traffic-Optimization</b></a><br>
+  <sub>Nov 25, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/Emby-Auto/commit/7290fb2ba73b4db942621ad0601508dba7ae4b83"><b>Pushed to Emby-Auto</b></a><br>
+  <sub>Nov 24, 2026</sub>
+</p>
+
+<p>
+  <a href="https://github.com/onprs/OCS-Tiku/commit/c94ea0bbe75103e6b8a6f08526f55e7e81df77e5"><b>Pushed to OCS-Tiku</b></a><br>
+  <sub>Nov 24, 2026</sub>
+</p>
+
+<p>
   <a href="https://github.com/onprs/Pi-Antigravity-Bridge/commit/c74fd171f23a694c79faec855fb3e48cbba0c130"><b>Pushed to Pi-Antigravity-Bridge</b></a><br>
   <sub>Nov 24, 2026</sub>
 </p>
 
 <p>
-  <a href="https://github.com/onprs/ByebyeOCS/commit/3d5086aa39a0629f2873e3c4427859ea7abaefad"><b>Pushed to ByebyeOCS</b></a><br>
+  <a href="https://github.com/onprs/ByebyeOCS/commit/864876653ad4265936400dd465aebffc2aa6943c"><b>Pushed to ByebyeOCS</b></a><br>
   <sub>Nov 24, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/Pi-SSH-Manager/commit/7e6020a6064835b0a3b42a952901ef7da1d4150d"><b>Pushed to Pi-SSH-Manager</b></a><br>
-  <sub>Nov 22, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/Pi-Traffic-Optimization/commit/2e7890896776d18c8a74185e955313eb6abbcd96"><b>Pushed to Pi-Traffic-Optimization</b></a><br>
-  <sub>Nov 22, 2026</sub>
-</p>
-
-<p>
-  <a href="https://github.com/onprs/Pi-Fusion/commit/c0e216d643522322b32636b248ac6a5cfb5404bd"><b>Pushed to Pi-Fusion</b></a><br>
-  <sub>Nov 20, 2026</sub>
 </p>
 
 <p><a href="https://github.com/onprs?tab=overview">View all activity</a></p>
